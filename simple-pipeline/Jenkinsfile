@@ -36,7 +36,6 @@ pipeline {
               }
            }
         }
-        // TODO: ADD AN APPROVAL STAGE
 
         stage('stage 3') {
             steps {
